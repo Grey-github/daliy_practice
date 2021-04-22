@@ -1,0 +1,3 @@
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test3/build/CMakeFiles/rebuild_cache.dir
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test3/build/CMakeFiles/main.dir
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test3/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/grey/Documents/program/c++_practise/c++/project/helloworld/CMakeFiles/rebuild_cache.dir
+/home/grey/Documents/program/c++_practise/c++/project/helloworld/CMakeFiles/HelloWorld.dir
+/home/grey/Documents/program/c++_practise/c++/project/helloworld/CMakeFiles/edit_cache.dir

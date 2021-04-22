@@ -1,0 +1,4 @@
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test3/testFunc/build/CMakeFiles/rebuild_cache.dir
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test3/testFunc/build/CMakeFiles/edit_cache.dir
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test3/testFunc/build/CMakeFiles/testFunc_shared.dir
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test3/testFunc/build/CMakeFiles/testFunc_static.dir

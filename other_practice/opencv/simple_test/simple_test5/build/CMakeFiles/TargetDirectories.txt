@@ -1,0 +1,6 @@
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/simple_test5/build/CMakeFiles/rebuild_cache.dir
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/simple_test5/build/CMakeFiles/edit_cache.dir
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/simple_test5/build/src/CMakeFiles/rebuild_cache.dir
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/simple_test5/build/src/CMakeFiles/edit_cache.dir
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/simple_test5/build/src/CMakeFiles/main1.dir
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/simple_test5/build/src/CMakeFiles/main2.dir

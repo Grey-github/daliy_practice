@@ -1,0 +1,10 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	int a[2][2];
+	cout<<a<<endl;
+	cout<<*(a+3)<<endl;
+} 

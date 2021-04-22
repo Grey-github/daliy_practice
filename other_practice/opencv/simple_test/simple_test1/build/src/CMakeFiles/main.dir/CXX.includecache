@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/../include/testFunc.h
+
+../src/../include/testFunc1.h
+
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/src/main.cpp
+iostream
+-
+testFunc.h
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/src/testFunc.h
+testFunc1.h
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/src/testFunc1.h
+
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/src/testFunc.cpp
+iostream
+-
+
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/src/testFunc1.cpp
+iostream
+-
+testFunc1.h
+/home/grey/Documents/Programm/C++_practise/opencv/simple_test/src/testFunc1.h
+

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>size</title>
+    </head>
+    <body style="text-align: center">
+        <p>
+            我的小鱼你醒了，
+        </p>
+        <p>
+            还认识早晨吗？
+        </p>
+        <p>
+            昨夜你曾经说，
+        </p>
+        <p>
+            愿夜幕永不开启。
+        </p>
+        <p>
+            你的香腮边轻轻滑落的，
+        </p>
+        <p>
+            是你的泪，
+        </p>
+        <p>
+            还是我的泪？
+        </p>
+        <p>
+            初吻吻别的那个季节，
+        </p>
+        <p>
+            不是已经哭过了吗？
+        </p>
+        <p>
+            我的指尖还记忆着，
+        </p>
+        <p>
+            你慌乱的心跳。
+        </p>
+        <p>
+            温柔的体香里，
+        </p>
+        <p>
+            那一缕长发飘飘。
+        </p>
+        <select>
+            <option value="xx-large">xx-large</option>
+            <option value="x-large">x-large</option>
+            <option value="large">large</option>
+            <option selected value="initial">initial</option>
+            <option value="small">small</option>
+            <option value="x-small">x-small</option>
+            <option value="xx-small">xx-small</option>
+        </select>
+        <script>
+
+            dodashcument.querySelector('select').onchange = function() {
+                document.querySelector('body').style.fontSize = this.value;
+            };
+
+        </script>
+    </body>
+</html>

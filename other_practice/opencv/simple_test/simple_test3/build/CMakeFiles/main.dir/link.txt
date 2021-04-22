@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/src/main.cpp.o  -o ../bin/main -Wl,-rpath,/home/grey/Documents/Programm/C++_practise/opencv/simple_test3/testFunc/lib ../testFunc/lib/libtestFunc.so 
