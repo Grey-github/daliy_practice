@@ -6,7 +6,7 @@ void show_bytes(byte_pointer start, size_t len)
 {
     size_t i;
     for (i=0; i<len; i++)
-        printf(" %.2x", start[i]);
+        printf("%p\t0x%.2x\n", start+i, start[i]);
     printf("\n");
 }
 
@@ -22,5 +22,12 @@ void show_float(float x)
 
 void show_pointer(void *x)
 {
-    show_bytes((byte_pointer)&x, sizeofk(void*));
+    show_bytes((byte_pointer)&x, sizeof(void*));
+}
+
+int main()
+{
+    int a = 15213;
+    printf("int a = 15213;\n");
+    show_bytes((byte_pointer)&a, sizeof(int));
 }
